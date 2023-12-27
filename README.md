@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+# <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> About Me
 - 👋 Hi, I’m Rishi Khare
 - 👀 I’m interested in AI/Robotics
 - 🌱 I’m currently studying computer science at UC Berkeley
