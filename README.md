@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> Hi, I'm Rishi!
+# Hi, I'm Rishi! <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">
 
 ![](https://komarev.com/ghpvc/?username=rishiskhare) [![rishiskhare.com](https://img.shields.io/badge/rishiskhare.com-336EE2.svg)](https://www.rishiskhare.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/rishi-khare/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishiskhare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://www.x.com/rishiskhare)
 
