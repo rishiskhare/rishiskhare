@@ -4,7 +4,7 @@
 
 - 💭 I’m interested in reasoning capabilities within LLMs
 - 🧑🏽‍💻 I’m studying computer science at UC Berkeley
-- 📩 Reach me anytime at rishi.khare [at] berkeley [dot] com
+- 📩 Reach me anytime at rishiskhare [at] gmail [dot] com
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiskhare&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
