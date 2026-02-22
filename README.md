@@ -6,8 +6,6 @@
 - 🧑🏽‍💻 I’m studying computer science at UC Berkeley
 - 📩 Reach me anytime at rishiskhare [at] gmail [dot] com
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiskhare&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 rishiskhare/rishiskhare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
