@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=rishiskhare) [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg)](https://www.linkedin.com/in/rishi-khare/) [![rishiskhare.com](https://img.shields.io/badge/rishiskhare.com-336EE2.svg?logo=Google-Chrome&logoColor=white)](https://www.rishiskhare.com) [![Instagram](https://img.shields.io/badge/@rishiskhare-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishiskhare) [![X](https://img.shields.io/badge/@rishiskhare-black.svg?logo=X&logoColor=white)](https://www.x.com/rishiskhare)
 
-- 💭 I’m interested in reasoning capabilities within LLMs
-- 🧑🏽‍💻 I’m studying computer science at UC Berkeley
-- 📩 Reach me anytime at rishiskhare [at] gmail [dot] com
+- Building, sharing, and learning
+- Reach me anytime at rishiskhare [at] gmail [dot] com
 
 <!---
 rishiskhare/rishiskhare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
